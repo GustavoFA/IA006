@@ -1,7 +1,7 @@
 # Brain-Computer Interfaces (BCI) -- Course Projects
 
 Professors: Denis G. Fantinato, Levy Boccato, Rafael Ferrari, and Romis Attux \
-Semester: 2nd Semester 2025 \
+Semester: 1st Semester 2025 \
 Institution: FEEC — UNICAMP
 
 This repository contains practical activities developed during a course
