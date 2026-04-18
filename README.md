@@ -1,4 +1,4 @@
-# Brain-Computer Interfaces (BCI) - Course Projects
+# Brain-Computer Interfaces (BCI) 
 
 Professors: Denis G. Fantinato, Levy Boccato, Rafael Ferrari, and Romis Attux \
 Semester: 1st Semester 2025 \
