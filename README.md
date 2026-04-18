@@ -13,9 +13,9 @@ EEG data.
 
 The course introduced the core principles of BCI systems, including:
 
--   Neurobiological foundations of brain activity\
--   Brain signal acquisition paradigms\
--   EEG signal processing and feature extraction\
+-   Neurobiological foundations of brain activity
+-   Brain signal acquisition paradigms
+-   EEG signal processing and feature extraction
 -   Machine learning techniques for EEG signal classification
 
 The focus was on understanding how brain signals can be transformed into
@@ -27,9 +27,9 @@ meaningful information and used to build intelligent systems.
 
 ### 🔹 Activity 1 - EEG Data Exploration
 
--   Loading and inspecting EEG datasets\
--   Understanding signal structure and channels\
--   Basic preprocessing and data visualization\
+-   Loading and inspecting EEG datasets
+-   Understanding signal structure and channels
+-   Basic preprocessing and data visualization
 -   Initial exploration of brain signal characteristics
 
 ------------------------------------------------------------------------
@@ -37,19 +37,19 @@ meaningful information and used to build intelligent systems.
 ### 🔹 Activity 2 - SSVEP-based BCI
 
 -   Implementation of a Steady-State Visual Evoked Potential (SSVEP)
-    paradigm\
--   Selection of occipital electrodes\
--   Frequency analysis and windowing\
--   Classification of stimulus frequencies\
+    paradigm
+-   Selection of occipital electrodes
+-   Frequency analysis and windowing
+-   Classification of stimulus frequencies
 -   Evaluation using Information Transfer Rate (ITR)
 
 ------------------------------------------------------------------------
 
 ### 🔹 Activity 3 - Motor Imagery BCI
 
--   Analysis of EEG data from multiple subjects\
--   Power Spectral Density (PSD) analysis\
--   Signal preprocessing and filtering\
+-   Analysis of EEG data from multiple subjects
+-   Power Spectral Density (PSD) analysis
+-   Signal preprocessing and filtering
 -   Classification of motor imagery tasks (left hand, right hand, feet,
     tongue)
 
@@ -57,18 +57,18 @@ meaningful information and used to build intelligent systems.
 
 ## Technologies and Tools
 
--   Python\
--   NumPy, Pandas, Matplotlib\
--   PyTorch\
+-   Python
+-   NumPy, Pandas, Matplotlib
+-   PyTorch
 -   MNE / Braindecode
 
 ------------------------------------------------------------------------
 
 ## Key Learning Outcomes
 
--   EEG signal acquisition and processing\
--   Feature extraction in time and frequency domains\
--   Machine learning applied to EEG classification\
+-   EEG signal acquisition and processing
+-   Feature extraction in time and frequency domains
+-   Machine learning applied to EEG classification
 -   Evaluation of BCI systems
 
 ------------------------------------------------------------------------
